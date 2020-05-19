@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://zarak:SKmXq5atNdMSTZlh@zarkouna-8s9wz.mongodb.net/Devconnect?retryWrites=true&w=majority",
+  "jwtSecret": "zarakeddineobama"
+}
